@@ -1,8 +1,5 @@
-
 -- 08 - Existence
 -- Write a Lean program to prove there exists a natural number larger than 5.
-
--- 08 - Existence proof
 
 import Mathlib.Tactic
 
